@@ -1,15 +1,15 @@
-layout_spectrum: 0.3145427752751857
-typography_spectrum: 0.11326608876697719
+layout_spectrum: 0.05696962564252317
+typography_spectrum: 0.15245415596291423
 color:
-  brandStrength: 0.27236713538877666
-  lightness: 0.5760530473198742
-  saturation: 0.2529103378765285
-  rhythmicContrast: 0.9305243636481464
+  brandStrength: 0.6993091739714146
+  lightness: 0.33157906401902437
+  saturation: 0.46234365878626704
+  rhythmicContrast: 0.10501485504209995
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
 name: BME 499 G27
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/23d28512-76c0-4618-999f-9f08d94c4695.gif'
