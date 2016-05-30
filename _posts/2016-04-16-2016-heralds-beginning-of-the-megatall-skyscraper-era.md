@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-30T20:33:26.879Z'
+datePublished: '2016-05-30T20:33:42.683Z'
 sourcePath: _posts/2016-04-16-2016-heralds-beginning-of-the-megatall-skyscraper-era.md
 inFeed: true
 isBasedOnUrl: 'http://www.dezeen.com/2016/01/22/2016-megatall-skyscraper-era-council-tall-buildings-urban-habitat-ctbuh/'
@@ -20,7 +20,7 @@ author:
   - name: Amy Frearson
     url: 'http://www.dezeen.com/author/amy-frearson/'
     avatar: {}
-dateModified: '2016-05-30T19:49:35.238Z'
+dateModified: '2016-05-30T20:33:42.594Z'
 title: '2016 heralds beginning of the "megatall" skyscraper era'
 app_links: []
 publisher:
