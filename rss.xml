@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BME 499 G27]]></title>
         <description><![CDATA[BME 499 G27]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bme-499-g27/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 19:55:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 20:33:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bme-499-g27/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 heralds beginning of the "megatall" skyscraper era]]></title>
+            <description><![CDATA[<article><h1>2016 heralds beginning of the "megatall" skyscraper era</h1><p>The number of skyscrapers over 600 metres high - known as "megatalls" - is set to more than double in the next few years, say experts. Skyscraper authority the Council on Tall Buildings and Urban Habitat (CTBUH) has revealed that the number of 600-metre-plus buildings in the world is set to rise from three to seven in the next five years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dc254f102a656394610b9763b92e10cf71a534a.jpg"></article>]]></description>
+            <link>http://www.dezeen.com/2016/01/22/2016-megatall-skyscraper-era-council-tall-buildings-urban-habitat-ctbuh/</link>
+            <guid isPermaLink="false">64a31803-edee-4344-85e6-945e06005164</guid>
+            <pubDate>Mon, 30 May 2016 20:33:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f1bd444-7606-4af9-a2ec-4d01124c53e2.gif">]]></description>
-            <link>undefined72b52820-1c7f-4b6f-a319-2a1cece98589/index.html</link>
+            <link>https://thegrid.ai/bme-499-g27/72b52820-1c7f-4b6f-a319-2a1cece98589/index.html</link>
             <guid isPermaLink="false">72b52820-1c7f-4b6f-a319-2a1cece98589</guid>
             <pubDate>Mon, 30 May 2016 19:55:12 GMT</pubDate>
         </item>
