@@ -1,0 +1,14 @@
+layout_spectrum: 0.3145427752751857
+typography_spectrum: 0.11326608876697719
+color:
+  brandStrength: 0.27236713538877666
+  lightness: 0.5760530473198742
+  saturation: 0.2529103378765285
+  rhythmicContrast: 0.9305243636481464
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: BME 499 G27
